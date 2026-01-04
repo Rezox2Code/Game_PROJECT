@@ -4,5 +4,4 @@ py -m network.serveur
 
 ---
 
-```bash
 python -m network.serveur
